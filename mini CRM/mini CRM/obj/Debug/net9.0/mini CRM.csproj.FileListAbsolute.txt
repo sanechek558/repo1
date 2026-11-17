@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\mini CRM\mini CRM\bin\Debug\net9.0\mini CRM.exe
+C:\Users\Student\source\repos\mini CRM\mini CRM\bin\Debug\net9.0\mini CRM.deps.json
+C:\Users\Student\source\repos\mini CRM\mini CRM\bin\Debug\net9.0\mini CRM.runtimeconfig.json
+C:\Users\Student\source\repos\mini CRM\mini CRM\bin\Debug\net9.0\mini CRM.dll
+C:\Users\Student\source\repos\mini CRM\mini CRM\bin\Debug\net9.0\mini CRM.pdb
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.AssemblyInfo.cs
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.dll
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\refint\mini CRM.dll
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.pdb
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.genruntimeconfig.cache
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\ref\mini CRM.dll
+C:\Users\Student\source\repos\mini CRM\mini CRM\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\mini CRM\mini CRM\obj\Debug\net9.0\mini CRM.csproj.Up2Date
